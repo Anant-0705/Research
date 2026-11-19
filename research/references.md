@@ -33,7 +33,7 @@ Checked: 19 November 2026. These are the primary sources retained for the propos
 - Published: 27 December 2024.
 - URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088390
 - Supports: the reported national rural monthly per-person consumption expenditure of INR 4,122, excluding imputed free welfare items, for 2023–24.
-- Use: background on household consumption. The deck deliberately avoids turning this into a savings or market-size claim.
+- Use: background on household consumption, without treating it as a savings or market-size estimate.
 - Limit: historical national average, not a current village budget, income measure, buying-frequency dataset, or proof of adoption.
 
 ## R05 — ONDC buyer network participant requirements
