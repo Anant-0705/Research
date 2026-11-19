@@ -1,0 +1,18 @@
+{
+  "generator": "Built-in image generation",
+  "purpose": "Original explanatory images for the SaathBuy submission",
+  "assets": [
+    {
+      "file": "assets/buying-flow.png",
+      "prompt": "Use case: infographic-diagram. Asset type: clean landscape explanatory flow image for a student hackathon PowerPoint. Create a very readable 16:9 infographic for \"SaathBuy\", a proposed rural collective purchasing network. Cream white background #F7F5EF, dark forest green typography #183A32, restrained orange accent #E6A04B. Flat editorial illustration, friendly Indian rural setting, large clear English labels, minimal text, generous whitespace. Exactly five illustrated stages in a single left-to-right horizontal sequence with clear connecting arrows: 1 \"Share a need\" (three people using phones), 2 \"Combine requests\" (matching identical goods and delivery dates), 3 \"Compare full costs\" (two supplier offers plus a delivery van), 4 \"Everyone approves\" (people independently confirm), 5 \"Collect together\" (goods arrive at a local shop pickup point). Title at top \"How SaathBuy works\". Small bottom note \"Proposed workflow\". Keep all text inside safe margins. Do not add statistics, money amounts, logos, badges, gradients or extra stages. Text must be exact, readable and correctly spelled."
+    },
+    {
+      "file": "assets/cancellation-flow.png",
+      "prompt": "Use case: infographic-diagram. Asset type: standalone landscape flow image for an easy student hackathon presentation about SaathBuy rural group purchasing. 16:9, generous margins, cream white background #F7F5EF, dark forest green lettering, restrained orange accents, clear large English text, friendly simple flat editorial illustrations, no gradients. Explain cancellation recovery with exactly this title \"When a buyer leaves\". Main left-to-right sequence of four clearly separated illustrated steps connected by arrows: \"A buyer leaves\" (one person exits a small group), \"Recheck the group\" (calculator, supplier box and delivery van), \"Show the new total\" (a clear simple receipt with no numbers), \"Ask everyone again\" (remaining buyers independently approve on phones). Beneath the main sequence, a clearly separate simple branch starting from \"Recheck the group\" leads to the label \"No saving? Pause the order\" beside a pause symbol. Footer exact text \"A changed price needs fresh approval\". All text readable and exact. No numerical savings claims, no logos, no banking imagery, no extra stages."
+    },
+    {
+      "file": "assets/cover-illustration.png",
+      "prompt": "Use case: illustration-story. Asset type: right-side cover illustration for a PowerPoint about rural collective buying in India. A warm, simple editorial illustration of a woman, a man and a local shopkeeper coordinating a shared purchase at a modest rural shop. A few sealed packages, a delivery van in the background, and a phone used by one person. Keep the people and shop concentrated in the right two-thirds, with quiet pale cream negative space on the left. Portrait-ish 4:5 composition suitable for cropping to a vertical panel. Restrained cream #F7F5EF, forest green #183A32, orange #E6A04B palette. Human, respectful, contemporary, uncluttered, no caricatures, no logos, no text, no numbers, no fake screenshots. Flat hand-drawn editorial style, clean shapes and subtle paper texture, no 3D effects or gradients."
+    }
+  ]
+}
