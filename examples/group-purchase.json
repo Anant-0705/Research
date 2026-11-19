@@ -1,0 +1,21 @@
+{
+  "status": "synthetic illustration, not market prices or pilot results",
+  "currency": "INR",
+  "money_unit": "paise",
+  "buyers": 10,
+  "packs_per_buyer": 2,
+  "individual_all_in_price_per_pack": 10000,
+  "supplier_price_per_pack": 8200,
+  "supplier_minimum_packs": 20,
+  "supplier_capacity_packs": 100,
+  "group_delivery_cost": 12000,
+  "group_coordination_fee": 4000,
+  "assumptions": [
+    "Same product, quality, pack size, date window and pickup conditions",
+    "Supplier goods prices include applicable tax",
+    "Delivery is to the agreed pickup point with no additional buyer cost in this illustration",
+    "Equal quantities permit equal delivery and fee shares",
+    "The quote has not expired and sufficient stock exists",
+    "No real payment or supplier order is executed"
+  ]
+}
